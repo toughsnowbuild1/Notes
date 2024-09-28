@@ -25,3 +25,15 @@
   😍🛶🍜👽⭐😭🔥🌊
 
   :shipit:
+
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-S (save)
+
+Shortcuts I would like to start using: 
+- Ctrl-F (search page for text)
+- Win-D (show desktop)
+- Ctrl-Shift-T (restore closed browser tab)
