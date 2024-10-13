@@ -37,3 +37,5 @@ Shortcuts I would like to start using:
 - Ctrl-F (search page for text)
 - Win-D (show desktop)
 - Ctrl-Shift-T (restore closed browser tab)
+
+[CLI commands](docs/cli.md)
