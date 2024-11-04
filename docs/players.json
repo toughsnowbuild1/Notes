@@ -1,6 +1,6 @@
 [
   {
-    "name": "James Brown"
+    "name": "James Brown" 
   },
   {
     "sports": "Basketball",
@@ -24,13 +24,13 @@
     "age": "36"
   },
    {
-    "name": "Serena Williams"
+    "name": "Serena Williams" // string
   },
   {
-    "sports": "Tennis",
-    "team": "N/A",
-    "position": "Player",
-    "age": "41"
+    "sports": "Tennis", // string
+    "team": "N/A", // string
+    "position": "Player", // string
+    "age": "41" // number
   },
    {
     "name": "Tom Brady"
